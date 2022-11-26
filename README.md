@@ -1,4 +1,10 @@
+<p align=”center”>
+<img width=”200" height=”200" src="https://user-images.githubusercontent.com/68821643/204092655-738bc775-811b-4932-bc92-1f2ebf63ba89.png" alt=”my banner”>
+ </p>
+
 ### Hi there 👋
+
+
 
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with Django or Game Dev
