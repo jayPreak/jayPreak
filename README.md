@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning React
+- 🤔 I’m looking for help with Django or Game Dev
+- 💬 Ask me about Python, JavaScript or Graphic Designing
+- 📫 How to reach me: jayesh.preak2003@gmail.com
+- ⚡ Fun fact: I can bench 70kgs
+
+[Portfolio](https://jaypreak.github.io/portfolio/)
+
 <!--
 **jayPreak/jayPreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
