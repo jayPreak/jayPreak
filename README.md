@@ -7,9 +7,7 @@
 - ⚡ Fun fact: I can bench 70kgs
 
 [Portfolio](https://jaypreak.github.io/portfolio/)
-[Behance]()
-[LinkedIn]()
-![image](https://user-images.githubusercontent.com/68821643/204080085-7c06ec3f-673b-4c34-a946-fca087d9faf0.png) [Twitter](https://twitter.com/jayPreak)
+
 
 <!--
 **jayPreak/jayPreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
