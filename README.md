@@ -77,6 +77,13 @@
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/5zx1uhrjxj85781jjwr5x8y54)
 
 
+# Stats
+
+[![jayPreak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayPreak&theme=dark)](https://github.com/jaypreak/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayPreak&layout=compact&theme=dark)](https://github.com/jaypreak/github-readme-stats)
+
+
 <!--
 **jayPreak/jayPreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
