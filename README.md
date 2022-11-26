@@ -12,8 +12,11 @@
 - 📫 How to reach me: jayesh.preak2003@gmail.com
 - ⚡ Fun fact: I can bench 70kgs
 
-[Portfolio](https://jaypreak.github.io/portfolio/)
+<div align="center">
 
+### ❤️ [Portfolio](https://jaypreak.github.io/portfolio/) 😼
+
+</div>
 
 # Skills
 
