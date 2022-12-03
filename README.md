@@ -84,10 +84,21 @@
 
 
 # Stats
+| <a href="https://github.com/jaypreak/chat2"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaypreak&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Jayesh's github stats" /></a> | <a href="https://github.com/jaypreak/portfolio"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypreak&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-[![jayPreak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayPreak&theme=dark)](https://github.com/jaypreak/github-readme-stats)
+#### Top Repositories
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayPreak&layout=compact&theme=dark)](https://github.com/jaypreak/github-readme-stats)
+
+<a href="https://github.com/jaypreak/chat2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaypreak&repo=chat2&theme=dark" />
+</a>
+<a href="https://github.com/jaypreak/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaypreak&repo=portfolio&theme=dark" />
+</a>
+
+
+
 
 
 <!--
