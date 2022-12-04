@@ -95,6 +95,9 @@
 <a href="https://github.com/jaypreak/chat2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaypreak&repo=chat2&theme=dark" />
 </a>
+<a href="https://github.com/jaypreak/php-examination">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaypreak&repo=php-examination&theme=dark" />
+</a>
 <a href="https://github.com/jaypreak/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaypreak&repo=portfolio&theme=dark" />
 </a>
