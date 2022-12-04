@@ -1,6 +1,8 @@
 <p align=”center”>
 <img width=”200" height=”200" src="https://user-images.githubusercontent.com/68821643/204093601-d5c9de47-ba9f-42dc-b32a-90be3b0d3760.png" alt=”my banner”>
  </p>
+ 
+![](https://komarev.com/ghpvc/?username=jaypreak)
 
 ### Hi there 👋
 
