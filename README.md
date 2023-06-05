@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with Django or Game Dev
 - 💬 Ask me about Python, JavaScript or Graphic Designing
 - 📫 How to reach me: jayesh.preak2003@gmail.com
-- ⚡ Fun fact: I can bench 70kgs
+- ⚡ Fun fact: I can bench 80kgs
 
 <div align="center">
 
