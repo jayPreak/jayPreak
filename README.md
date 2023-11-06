@@ -98,7 +98,7 @@
 [![](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://steamcommunity.com/profiles/76561198971025487)
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/5zx1uhrjxj85781jjwr5x8y54)
 
-
+<!--
 # Stats
 | <a href="https://github.com/jaypreak/chat2"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaypreak&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Jayesh's github stats" /></a> | <a href="https://github.com/jaypreak/portfolio"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypreak&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -119,7 +119,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaypreak&repo=portfolio&theme=dark" />
 </a>
 
-
+-->
 
 
 
