@@ -12,11 +12,11 @@
 - 🤔 I’m looking for help with Django or Game Dev
 - 💬 Ask me about Python, JavaScript or Graphic Designing
 - 📫 How to reach me: jayesh.preak2003@gmail.com
-- ⚡ Fun fact: I can bench 80kgs
+- ⚡ Fun fact: I can bench 85kgs
 
 <div align="center">
 
-### ❤️ [Portfolio](https://jayeshbhushan.me/) 😼
+### ❤️ [Portfolio](https://jayesh47.netlify.app) 😼
 <a href="https://jayesh.onrender.com/" >
  <img src="https://lanyard.cnrad.dev/api/351420785149345792?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
   </a>
